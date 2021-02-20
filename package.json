@@ -1,16 +1,13 @@
 {
   "name": "docs",
   "version": "0.0.1",
-  "description": "press.one docs hub",
+  "description": "press.one docs",
   "main": "index.html",
   "dependencies": {
     "docsify-cli": "^4.4.2"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "docsify serve .",
-    "start-ssr": "docsify start ."
   },
   "repository": {
     "type": "git",
