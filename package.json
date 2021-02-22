@@ -7,7 +7,7 @@
     "docsify-cli": "^4.4.2"
   },
   "scripts": {
-    "start": "docsify serve .",
+    "start": "docsify serve . -o"
   },
   "repository": {
     "type": "git",
