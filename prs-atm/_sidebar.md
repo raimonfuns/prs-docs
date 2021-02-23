@@ -1,1 +1,2 @@
-* [prs-atm home](/prs-atm/)
+- [prs-atm home](/prs-atm/)
+- [如何接入 prs-atm?](/prs-atm/how)
