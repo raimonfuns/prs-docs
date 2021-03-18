@@ -1,4 +1,4 @@
 # Press.one 文档
 
-- [飞帖文档](/flying-pub/介绍)
-- [PIP2001 文档](/PIP2001/介绍)
+- [飞帖文档](/flying-pub/)
+- [PIP2001 文档](/PIP2001/)
