@@ -42,7 +42,7 @@
 ## 正在运行的飞帖站点有哪些？
 
 - 新作：[http://zuopin.xin](http://zuopin.xin/)（目前最多人使用的站点）
-- BOX 定投：[https://read.firesbox.com](https://read.firesbox.com/)（定投群会员专享）
+- BOX 定投：[https://read.firesbox.com](https://read.firesbox.com/)（定投群会员专享，私密站点）
 - PRS 团队动态：[http://blog.prsdev.club](http://blog.prsdev.club/)
 - PRESS.one 主站：[https://prs.prsdev.club](https://prs.prsdev.club/)
 - 编程自学：[https://xue.prsdev.club](https://xue.prsdev.club/)
