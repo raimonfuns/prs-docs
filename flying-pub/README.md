@@ -46,7 +46,7 @@
 - PRS 团队动态：[http://blog.prsdev.club](http://blog.prsdev.club/)
 - PRESS.one 主站：[https://prs.prsdev.club](https://prs.prsdev.club/)
 - 编程自学：[https://xue.prsdev.club](https://xue.prsdev.club/)
-- （如果你的站点跑起来了，可以把站点的名称和链接发给我们，我们把你的站点加在这里，让大家看见）
+- （如果你的站点搭建好了，可以把站点名称和链接发给我们，我们把你的站点加在这里，让大家看见）
 
 ## 我可以拥有自己的飞帖站点吗？
 
