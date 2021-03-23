@@ -21,7 +21,6 @@
 ![](./images/pc-5.png)
 ![](./images/pc-9.png)
 ![](./images/pc-6.png)
-![](./images/pc-11.png)
 ![](./images/pc-7.png)
 ![](./images/pc-8.png)
 ![](./images/pc-10.png)
