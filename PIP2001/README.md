@@ -42,9 +42,15 @@ file 可以是任意的数字内容。只要是数字内容都可以。可以是
 
 ## PIP2001 和飞帖的关系是什么？
 
-[飞帖](/flying-pub/)就是使用 PIP2001 协议开发的一个应用。
+飞帖就是使用 PIP2001 协议开发的一个应用。
 
 你可以把飞帖看做是 PIP2001 协议的 Demo 示例。
+
+如果你想参考飞帖的代码，可以阅读以下内容：
+
+- [飞帖介绍](/flying-pub/)
+- [飞帖开发教程](https://docs.prsdev.club/#/flying-pub/%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B)
+- [飞帖仓库代码](https://github.com/Press-One/flying-pub)
 
 ## 提交 PIP2001 区块需要付费吗？
 
