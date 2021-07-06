@@ -2,3 +2,4 @@
 
 - [飞帖文档](/flying-pub/)
 - [PIP2001 文档](/PIP2001/)
+- [RUM APP 文档](/rum-app/)
