@@ -2,11 +2,11 @@
 
 #### 有哪些公开的群组可以加入？
 
-**群 1**：[下载种子文件](https://xue.cn)
+**群 1**：<a href="/rum-app/seeds/seed.演示专用.json" download>下载种子文件</a>
 
-**群 2**：[下载种子文件](https://xue.cn)
+**群 2**：<a href="/rum-app/seeds/seed.演示专用.json" download>下载种子文件</a>
 
-**群 3**：[下载种子文件](https://xue.cn)
+**群 3**：<a href="/rum-app/seeds/seed.演示专用.json" download>下载种子文件</a>
 
 如果想把你的群组也放上来，请联系 Mixin ID: 28576
 
